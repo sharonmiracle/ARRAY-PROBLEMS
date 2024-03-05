@@ -1,1 +1,1 @@
-# ARRAY-PROBLEMS
+1) Sum of series
