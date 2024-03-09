@@ -3,3 +3,4 @@
 3) Print alternate elements of an array
 4) Count of smaller elements
 5) Sum of Array (elements)
+6) Print Elements of Array
