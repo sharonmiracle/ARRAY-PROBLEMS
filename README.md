@@ -5,3 +5,4 @@
 5) Sum of Array (elements)
 6) Print Elements of Array
 7) Find Index
+8) Palindromic Array
