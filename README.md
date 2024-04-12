@@ -6,4 +6,6 @@
 6) Print Elements of Array [GFG]
 7) Find Index [GFG]
 8) Palindromic Array [GFG]
-9) Program to count total no. of duplicate elements in an array
+9) Program to count total no. of duplicate elements in an array (count duplicate element multiple times)
+10) Program to count total no. of duplicate elements in an array (count duplicate element single time)
+    
