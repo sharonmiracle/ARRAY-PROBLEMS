@@ -11,3 +11,4 @@
 11) Program to print the Sum of even and odd elements in an array
 12) Swap kth elements [GFG]
 13) Deletion of single element in an array
+14) Insertion of single element in an array
