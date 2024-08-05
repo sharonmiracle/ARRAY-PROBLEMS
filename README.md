@@ -10,3 +10,4 @@
 10) Program to count total no. of duplicate elements in an array (count duplicate element single time)
 11) Program to print the Sum of even and odd elements in an array
 12) Swap kth elements [GFG]
+13) Deletion of single element in an array
