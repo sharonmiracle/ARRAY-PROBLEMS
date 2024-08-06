@@ -12,3 +12,5 @@
 12) Swap kth elements [GFG]
 13) Deletion of single element in an array
 14) Insertion of single element in an array
+15) Array left rotation (METHOD 1) - Time Complexity (n^2)
+16) Array left rotation (METHOD 2) - Time Complexity (n)
