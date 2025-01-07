@@ -16,3 +16,4 @@
 16) Array left rotation (METHOD 2) - Time Complexity (n)
 17) Array right rotation (METHOD 1) - Time Complexity (n^2)
 18) Array right rotation (METHOD 2) - Time Complexity (n)
+19) Sorting an array in ascending order (Selection Sort)
